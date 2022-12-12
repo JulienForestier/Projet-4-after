@@ -1042,3 +1042,12 @@ h4 {
         text-align: center;
     }
 }
+
+.img-size{
+    width: 100%;
+}
+
+.text-important{
+    font-size: 18px;
+    font-weight: bold;
+}
