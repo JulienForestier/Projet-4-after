@@ -1051,3 +1051,8 @@ h4 {
     font-size: 18px;
     font-weight: bold;
 }
+
+a:focus{
+    text-decoration: underline;
+    transform: scale(1.3);
+}
