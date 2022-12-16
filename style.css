@@ -1053,7 +1053,6 @@ h4 {
 }
 
 a:focus{
-    color: #a6542e;
-    text-transform: bold;
-    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration-color: #a6542e;
 }
