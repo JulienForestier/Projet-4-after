@@ -1053,6 +1053,7 @@ h4 {
 }
 
 a:focus{
-    text-decoration: underline red;
-    transform: scale(1.5);
+    color: #a6542e;
+    text-transform: bold;
+    text-decoration: underline;
 }
